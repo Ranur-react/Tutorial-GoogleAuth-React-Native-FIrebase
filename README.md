@@ -1,7 +1,7 @@
 # Tutorial-GoogleAuth-React-Native-FIrebase
 
 
-#### 1.  Buatlah project react-native baru , atau boleh langsung implementasikan pada project yang sudah ada.
+### 1.  Buatlah project react-native baru , atau boleh langsung implementasikan pada project yang sudah ada.
 
 
 
@@ -38,8 +38,8 @@ npm install --save @react-native-google-signin/google-signin
 import React, {Component} from 'react';
 import {Text, View, Button} from 'react-native';
 
-import auth from '@react-native-firebase/auth';// tambahkan 
-import {GoogleSignin} from '@react-native-google-signin/google-signin'; // tambahkan 
+import auth from '@react-native-firebase/auth';//----> tambahkan 
+import {GoogleSignin} from '@react-native-google-signin/google-signin'; //----> tambahkan 
 
 ```
 
@@ -53,7 +53,7 @@ import {GoogleSignin} from '@react-native-google-signin/google-signin';
 GoogleSignin.configure({
   webClientId:
     '272733356002-o7944fr2622e9ut10fvv38v16h9peikp.apps.googleusercontent.com',
-});  //tambahkan files konfigurasi 
+});   //---->tambahkan files konfigurasi 
 
 ```
 
