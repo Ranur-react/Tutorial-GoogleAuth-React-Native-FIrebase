@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576472189697",
+    "project_id": "belajarauthlogin",
+    "storage_bucket": "belajarauthlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576472189697:android:ec4ab9474e66a51304a900",
+        "android_client_info": {
+          "package_name": "com.projectauthgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576472189697-66r7l0snr0ihlfvqqqoqa5cfso9sgvrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projectauthgoogle",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "576472189697-p8tjjlsilfoo44rs04jbq5iivplkne0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gWBjHA2aTjEDRWKSvf8HdCBVCqaQq7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576472189697-p8tjjlsilfoo44rs04jbq5iivplkne0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
